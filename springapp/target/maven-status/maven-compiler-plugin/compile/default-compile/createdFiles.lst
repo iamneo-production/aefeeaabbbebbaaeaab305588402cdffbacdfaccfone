@@ -1,0 +1,5 @@
+com/example/springapp/SpringappApplication.class
+com/example/springapp/controller/DoorController.class
+com/example/springapp/model/Door.class
+com/example/springapp/service/DoorService.class
+com/example/springapp/repository/DoorRepository.class
